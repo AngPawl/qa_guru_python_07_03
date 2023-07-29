@@ -2,7 +2,7 @@
 
 def print_hi(name):
 
-    print(f'Hello, {name}!')
+    print(f'Good evening, {name}!')
 
 
 if __name__ == '__main__':
